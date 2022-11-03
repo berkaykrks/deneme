@@ -1,0 +1,2 @@
+# deneme
+c ödevlerim
